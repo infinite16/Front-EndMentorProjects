@@ -1,0 +1,73 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500&display=swap');
+
+
+body{
+    margin: auto;
+    background-color: rgb(3, 3, 22);
+}*{
+    margin: auto;
+    font-family: 'Red Hat Display', sans-serif;
+ 
+}.container{
+    position: relative;
+    background-color: rgba(29, 31, 48, 0.966);
+    top: 90px;
+    width:500px;
+    height: 820px;
+    border-radius: 20px;
+    padding: 30px;
+    
+}.equi{
+    width: 500px;
+    height: auto;
+    border-radius: 10px;
+}.equi-text{
+    color: white;
+    font-size: 30px;
+   
+}.our-text{
+    color: rgba(255, 255, 255, 0.432);
+    font-size: 25px;
+}.tet{
+    font-size: 20px;
+    color: white;
+
+
+}.mid{
+    display: flex;
+    flex-wrap: wrap;
+    height: 35px;
+    
+}.img1{
+    position: relative;
+    right: 75px;
+}.num{
+    position: relative;
+    bottom: 35px;
+    right: 30px;
+    color: rgb(26, 155, 112);
+}.days{
+    position: relative;
+    bottom: 35px;
+    left: 50px;
+
+}.guhit{
+    background-color: rgba(255, 255, 255, 0.507);
+    width: 480px;
+    height: 1px;
+}.profile{
+    
+}.prof-pic{
+    width: 70px;
+    border-color: white;
+    border: 90px;
+}.ron{
+    font-size: 20px;
+    position: relative;
+    bottom: 50px;
+    left: 80px;
+    color: rgba(255, 255, 255, 0.438);
+}.biboy{
+    color:rgba(255, 255, 255, 0.836);
+}
